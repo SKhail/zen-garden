@@ -1,7 +1,5 @@
 # zen-garden
 
-# Weather-Dashboard
-
 ## Description
 
 The application is a project that was built in class to show the power of using css. The Zen garden aim is to Inspire, and encourage participation. To begin, view some of the existing designs in the list. Clicking on any one will load the style sheet into this very page. The HTML remains the same, the only thing that has changed is the external CSS file.
